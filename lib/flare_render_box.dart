@@ -104,7 +104,6 @@ abstract class FlareRenderBox extends RenderBox {
   void dispose() {
     updatePlayState();
     _unload();
-    super.dispose();
   }
 
   /// Load a flare file from cache

@@ -1,6 +1,5 @@
 import 'dart:math';
 
-
 import 'flare.dart';
 import 'flare_actor.dart';
 import 'flare_controller.dart';
